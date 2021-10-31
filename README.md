@@ -1,4 +1,5 @@
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<halyssonJr>&theme=<THEME_NAME>" />
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halyssonJr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
